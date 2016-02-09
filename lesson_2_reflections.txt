@@ -11,3 +11,6 @@ A: use git diff --staged to compare files in staged area and last commit before 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: it allows meaningful labels to be used to keep track of different versions of the code
 
+How do the diagrams help you visualize the branch structure?
+A: diagrams shows more commit and are easy to read and understand the commit inside a branch
+
