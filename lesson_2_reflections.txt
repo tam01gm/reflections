@@ -18,3 +18,6 @@ What is the result of merging two branches together? Why do we represent it in t
 A: we end with a single branch ( or two branches at the same place ) with changes from both branches included in the new branch. Conflicts may occur and need to be fixed. It is represented so to shows that th
 e new merged branch has two parents
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: pros of automatic : avoid human work and also sometimes avoid human erros, cons: sometimes a human check can avoid errors
+
