@@ -5,3 +5,6 @@ A: it creates a .git directory in order to track changes
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: staging area is a check zone before any commit, so we can validate the files we want to include in the commit
 
+How can you use the staging area to make sure you have one commit per logical change?
+A: use git diff --staged to compare files in staged area and last commit before applying new commit
+
