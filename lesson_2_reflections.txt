@@ -14,3 +14,7 @@ A: it allows meaningful labels to be used to keep track of different versions of
 How do the diagrams help you visualize the branch structure?
 A: diagrams shows more commit and are easy to read and understand the commit inside a branch
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: we end with a single branch ( or two branches at the same place ) with changes from both branches included in the new branch. Conflicts may occur and need to be fixed. It is represented so to shows that th
+e new merged branch has two parents
+
