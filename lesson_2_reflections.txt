@@ -8,3 +8,6 @@ A: staging area is a check zone before any commit, so we can validate the files 
 How can you use the staging area to make sure you have one commit per logical change?
 A: use git diff --staged to compare files in staged area and last commit before applying new commit
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: it allows meaningful labels to be used to keep track of different versions of the code
+
